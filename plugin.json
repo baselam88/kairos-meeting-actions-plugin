@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Turns meeting notes or a transcript into owners, deadlines, and follow-ups \u2014 nothing evaporates.",
+  "keywords": [
+    "actions",
+    "kairos",
+    "meeting",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-meeting-actions",
+  "repository": "https://github.com/baselam88/kairos-meeting-actions-plugin",
+  "version": "0.1.0"
+}
